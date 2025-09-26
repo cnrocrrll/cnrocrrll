@@ -39,7 +39,7 @@ Coming soon.
 *Tech:* TypeScript, JSX, SQL, JavaScript, HTML, CSS.
 *Impact:* Streamlines analytics workflows and reduces manual effort in data analysis.
 
-#### 3. [RelicBound](https://github.com/cnrocrrll/relicbound)
+#### 3. [RelicBound](https://github.com/cnrocrrll/CSC1034)
 Generates **news articles and summaries** using AI, combining natural language understanding with automated content creation.
 *Tech:* MySQL, JavaScript, HTML, CSS.
 *Impact:* Automates content generation while maintaining readability and relevance.
