@@ -23,7 +23,7 @@ I’m passionate about building **AI-powered solutions and easy-to-use, aestheti
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-005C84?style=for-the-badge&logo=c++&logoColor=white)
 
 ---
 
@@ -31,18 +31,14 @@ I’m passionate about building **AI-powered solutions and easy-to-use, aestheti
 
 #### 1. [Personal Website](https://github.com/cnrocrrll/conorocarroll.com)
 My **personal website** that I use for business purposes, showcasing some of my video editing and design work, and to help connect with others.
-*Tech:* HTML, JavaScript, CSS, OpenAI.
-*Impact:* Simplifies medical research and information retrieval for non-experts.
+- *Tech:* HTML, JavaScript, CSS, OpenAI.
 
 #### 2. [ToxAI](https://github.com/cnrocrrll/ToxAI)
 Coming soon.
-*Tech:* TypeScript, JSX, SQL, JavaScript, HTML, CSS.
-*Impact:* Streamlines analytics workflows and reduces manual effort in data analysis.
 
 #### 3. [RelicBound](https://github.com/cnrocrrll/CSC1034)
-Generates **news articles and summaries** using AI, combining natural language understanding with automated content creation.
-*Tech:* MySQL, JavaScript, HTML, CSS.
-*Impact:* Automates content generation while maintaining readability and relevance.
+University project.
+- *Tech:* MySQL, JavaScript, HTML, CSS.
 
 ---
 
