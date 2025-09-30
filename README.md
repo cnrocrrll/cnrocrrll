@@ -30,17 +30,17 @@ I’m passionate about building **AI-powered solutions and easy-to-use, aestheti
 ### 📌 **Featured Projects**
 
 #### 1. [Personal Website](https://github.com/cnrocrrll/conorocarroll.com)
-My **personal website** that I use for business purposes, showcasing some of my video editing and design work, and to help connect with others.
+My **personal website** that I use for business purposes and to showcase some of my video editing and design work.
 - *Tech:* HTML, JavaScript, CSS, OpenAI.
 
 #### 2. [ToxAI](https://github.com/cnrocrrll/ToxAI)
 Coming soon.
 
 #### 3. [RelicBound](https://github.com/cnrocrrll/CSC1034)
-University project.
+A text-based web game for a university project.
 - *Tech:* MySQL, JavaScript, HTML, CSS.
 
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn]((https://www.linkedin.com/in/conor-ocarroll/))]([https://www.linkedin.com/in/conor-ocarroll/])
+[LinkedIn](https://www.linkedin.com/in/conor-ocarroll/)
