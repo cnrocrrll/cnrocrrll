@@ -33,12 +33,16 @@ I’m passionate about building **AI-powered solutions and easy-to-use, aestheti
 My **personal website** that I use for business purposes and to showcase some of my video editing and design work.
 - *Tech:* HTML, JavaScript, CSS, OpenAI.
 
-#### 2. [ToxAI](https://github.com/cnrocrrll/ToxAI)
+#### 2. [GazeProfit](https://github.com/cnrocrrll/GazeProfit)
 Coming soon.
 
 #### 3. [RelicBound](https://github.com/cnrocrrll/CSC1034)
 A text-based web game for a university project.
 - *Tech:* MySQL, JavaScript, HTML, CSS.
+
+#### 3. [VoteWise](https://github.com/han-re/HackBelfast)
+A HackBelfast project to give people the unbiased, unfiltered information they need to make informed votes.
+- *Tech:* Next.js 16, React 19, TypeScript 5, Tailwind 4, FastAPI, Motor, MongoDB Atlas, Solana devnet, ElevenLabs, Vercel, Railway.
 
 ---
 
