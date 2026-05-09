@@ -34,7 +34,7 @@ My **personal website** that I use for business purposes and to showcase some of
 - *Tech:* HTML, JavaScript, CSS, OpenAI.
 
 #### 2. [GazeProfit](https://github.com/cnrocrrll/GazeProfit)
-Coming soon.
+The GazeProfit website.
 
 #### 3. [RelicBound](https://github.com/cnrocrrll/CSC1034)
 A text-based web game for a university project.
